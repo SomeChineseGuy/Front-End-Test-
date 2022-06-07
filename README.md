@@ -1,10 +1,6 @@
-# Getting Started
+# Front End Test
 
-### `yarn`
-
-### `yarn start`
-
-# Libraries Installed
+### Libraries Installed
 
 - Axios
 - React Beautiful DND
@@ -12,3 +8,15 @@
 - @fortawesome/fontawesome-svg-core
 - @fortawesome/free-solid-svg-icons
 - @fortawesome/react-fontawesome
+
+### Install npm dependencies
+
+```
+yarn
+```
+
+### Start the app
+
+```
+yarn start
+```
